@@ -354,6 +354,12 @@ Table 2. Test-time prompt tuning methods on OOD data.
 [[Paper](https://arxiv.org/abs/2303.02151)] [[Code](https://github.com/ZrrSkywalker/CaFo)]   
 - `Meta-Adapter` **Meta-Adapter: An Online Few-shot Learner for Vision-Language Model.** NeurIPS 2023.   
 [[Paper](https://arxiv.org/abs/2311.03774)] [[Code](https://github.com/ArsenalCheng/Meta-Adapter)]
+- `AMU-Tuning` **AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning.** CVPR 2024.   
+[[Paper](https://arxiv.org/abs/2404.08958)] [[Code](https://github.com/TJU-sjyj/AMU-Tuning)]  
+- `LDC` **Logits DeConfusion with CLIP for Few-Shot Learning.** CVPR 2025.   
+[[Paper](https://arxiv.org/abs/2504.12104)] [[Code](https://github.com/LiShuo1001/LDC)]  
+- `VtT` **Reclaiming Lost Text Layers for Source-Free Cross-Domain Few-Shot Learning**. CVPR 2026.   
+[[Paper](https://arxiv.org/abs/2603.05235)] [[Code](https://github.com/zhenyuZ-HUST/CVPR26-VtT)(Empty)]   
 
 ## Video Understanding
 
