@@ -33,8 +33,9 @@ A curated list of prompt/adapter learning methods for vision-language models (e.
 
 ## Surveys
 
-- A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[Paper](https://arxiv.org/abs/2307.12980)]
-- Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey. [[Paper](https://arxiv.org/abs/2402.02242)]
+- A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models. [[Paper](https://arxiv.org/abs/2307.12980)]  
+- Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey. [[Paper](https://arxiv.org/abs/2402.02242)]  
+- Generalizable Prompt Learning of CLIP: A Brief Overview. [[Paper](https://arxiv.org/abs/2503.01263)]  
 
 ## Foundation Models
 
