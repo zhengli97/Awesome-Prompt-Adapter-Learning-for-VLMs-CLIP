@@ -434,6 +434,8 @@ Table 2. Test-time prompt tuning methods on OOD data.
 ### BioMedical
 - `BiomedCoOp` **BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models.** CVPR 2025.   
 [[Paper](https://arxiv.org/abs/2411.15232)] [[Code](https://github.com/HealthX-Lab/BiomedCoOp)]   
+- `MAPLE` **MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification.** NeurIPS 2025.   
+[[Paper](https://openreview.net/forum?id=yHi8Ao6GAe)] [[Code](https://github.com/JJ-ZHOU-Code/MAPLE)]
 
 ### Robot
 - `PPL` **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation.** CVPR 2025.   
