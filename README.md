@@ -452,3 +452,8 @@ Table 2. Test-time prompt tuning methods on OOD data.
 ### Action
 - `SCoPLe` **Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition.** CVPR 2025.   
 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Semantic-guided_Cross-Modal_Prompt_Learning_for_Skeleton-based_Zero-shot_Action_Recognition_CVPR_2025_paper.pdf)] [Code Not Found]
+
+### Anomaly Detection
+- `PromptAD` **PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection.** CVPR 2024.    
+[[Paper](https://arxiv.org/abs/2404.05231)] [[Code](https://github.com/FuNz-0/PromptAD)]   
+
