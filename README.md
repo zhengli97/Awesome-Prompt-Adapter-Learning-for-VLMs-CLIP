@@ -381,7 +381,9 @@ Table 2. Test-time prompt tuning methods on OOD data.
 
 ### Prompt Learning
 - `ActionCLIP` **Actionclip: A new paradigm for video action recognition.** arxiv 21.   
-[[Paper](https://arxiv.org/abs/2109.08472)] [[Code](https://github.com/sallymmx/ActionCLIP)]   
+[[Paper](https://arxiv.org/abs/2109.08472)] [[Code](https://github.com/sallymmx/ActionCLIP)]
+- `Efficient-Prompt` **Efficient-Prompt Prompting visual-language models for efficient video understanding.** ECCV 2022.
+[[Paper](https://arxiv.org/pdf/2112.04478)] [[Code](https://github.com/ju-chen/Efficient-Prompt)]
 - `VideoPrompt` **Prompting visual-language models for efficient video understanding.** ECCV 2022.  
 [[Paper](https://arxiv.org/pdf/2112.04478.pdf)] [[Code](https://github.com/ju-chen/Efficient-Prompt)]
 - `InTTA` **Expanding Language-Image Pretrained Models for General Video Recognition.** ECCV 2022.  
